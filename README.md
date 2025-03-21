@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am a Freshman at Lehman College majoring in CIS. A few of my hobbies are drawing, playing instruments, and car photography. I also know the basics of Java.
 
+My Coding Skills:
 ![My Skills](https://skillicons.dev/icons?i=java)
 
 <!--
