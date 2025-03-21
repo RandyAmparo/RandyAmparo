@@ -1,9 +1,12 @@
 ## Hi there 👋
 I am a Freshman at Lehman College majoring in CIS. A few of my hobbies are drawing, playing instruments, and car photography. I also know the basics of Java.
 
-My Coding Skills:
+## My Coding Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=java)
+
+## My Socials:
+<a href = "https://www.instagram.com/ryaowhyo/?locale=zh_CN&hl=nl" /> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height = "50" />
 
 <!--
 **RandyAmparo/RandyAmparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
