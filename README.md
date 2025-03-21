@@ -2,7 +2,7 @@
 I am a Freshman at Lehman College majoring in CIS. A few of my hobbies are drawing, playing instruments, and car photography. I also know the basics of Java.
 
 ![My Skills](https://skillicons.dev/icons?i=java)
-java
+
 <!--
 **RandyAmparo/RandyAmparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
